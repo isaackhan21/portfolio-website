@@ -1,14 +1,14 @@
 const userData = {
-  githubUsername: "manuarora700",
-  name: "Manu Arora",
-  designation: "Full-Stack Developer",
-  avatarUrl: "/avatar.png",
-  email: "manuarorawork@gmail.com",
-  phone: "+91 9587738861",
-  address: "Jaipur, Rajasthan, India.",
+  githubUsername: "isaackhan21",
+  name: "Isaac Khan",
+  designation: "Web Developer",
+  avatarUrl: "/IsaacBlue.jpeg",
+  email: "isaackhan21@gmail.com",
+  phone: "+447724763755",
+  address: "38 Archer Grove, Reading, RG2 9TB",
   projects: [
     {
-      title: "Tailwind Master Kit",
+      title: "Crypto Price Tracker",
       link: "https://tailwindmasterkit.com",
       imgUrl: "/tmk.jpg",
     },
@@ -98,7 +98,7 @@ const userData = {
     {
       title: "High School",
       company: "Delhi Public School, Jaipur.",
-      year: "2015",
+      year: "2013",
       companyLink: "https://upes.co.in",
       desc: "Subjects being PCM - I barely survived with 93.6% marks aggregate. Flex fridays, fellas.",
     },

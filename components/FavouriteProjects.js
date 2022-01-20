@@ -44,7 +44,7 @@ export default function FavouriteProjects() {
                 alt="portfolio"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
-              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-blue-500 rounded-md px-2">
                 Tailwind Master Kit
               </h1>
               <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
@@ -64,7 +64,7 @@ export default function FavouriteProjects() {
                 alt="portfolio"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
-              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-blue-500 rounded-md px-2">
                 PlaceholderTech
               </h1>
               <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
@@ -84,7 +84,7 @@ export default function FavouriteProjects() {
                 alt="portfolio"
                 className="transform hover:scale-125 transition duration-2000 ease-out object-cover shadow-2xl"
               />
-              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-blue-500 rounded-md px-2">
                 Portfolio
               </h1>
               <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
