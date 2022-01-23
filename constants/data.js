@@ -9,13 +9,13 @@ const userData = {
   projects: [
     {
       title: "Crypto Price Tracker",
-      link: "https://tailwindmasterkit.com",
-      imgUrl: "/tmk.jpg",
+      link: "https://reactjs-crypto-tracker.netlify.app/",
+      imgUrl: "/Crypto Tracker Screenshot.png",
     },
     {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
+      title: "Blog Website",
+      link: "https://blog-project-8eg5mueri-isaackhan21.vercel.app/",
+      imgUrl: "/Blog Project Screenshot.png",
     },
     {
       title: "Portfolio",
@@ -23,29 +23,24 @@ const userData = {
       imgUrl: "/portfolio.png",
     },
     {
-      title: "CovidRescue",
+      title: "React Movie List with API",
       link: "https://covidrescue.co.in",
       imgUrl: "/covidrescue.png",
     },
     {
-      title: "Algochurn",
+      title: "Movie/TV Show Review App with API",
       link: "https://algochurn.com",
       imgUrl: "/algochurn.png",
     },
     {
-      title: "Playground",
+      title: "React Code Snippets Library",
       link: "https://play.placeholdertech.in",
       imgUrl: "/playground.png",
     },
     {
-      title: "Feedmeback",
+      title: "First Portfolio",
       link: "https://feedmeback.vercel.app",
       imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
     },
   ],
   about: {
@@ -57,7 +52,7 @@ const userData = {
       `But now, I'm a legend. I've been coding in React, Angular, Vue, Svelte, Node.js, Express, Fastify, MongoDB, MySQL, Bootstrap, Tailwind, C, C++, C#, Rust, Haskell, Perl, PHP, Assembly, Logo and YouDontKnowShit programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
     ],
     currentProject: "Crypto Price Tracker",
-    currentProjectUrl: "https://tailwindmasterkit.com",
+    currentProjectUrl: "https://reactjs-crypto-tracker.netlify.app/",
   },
   experience: [
     {
@@ -106,11 +101,9 @@ const userData = {
   resumeUrl:
     "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
   socialLinks: {
-    instagram: "https://instagram.com/maninthere",
-    twitter: "https://twitter.com/mannupaaji",
-    linkedin: "https://linkedin.com/in/manuarora28",
-    github: "https://github.com/manuarora700",
-    facebook: "https://facebook.com/",
+    twitter: "https://twitter.com/Isaac77649241",
+    linkedin: "https://www.linkedin.com/in/isaac-khan-2988a1159/",
+    github: "https://github.com/isaackhan21",
   },
 };
 
