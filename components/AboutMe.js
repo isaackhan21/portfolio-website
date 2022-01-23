@@ -17,7 +17,7 @@ export default function AboutMe() {
           >
             {userData.about.title}. Currently working on{" "}
             <a
-              className="bg-red-500 rounded-md px-2 py-1 text-white"
+              className="bg-blue-500 rounded-md px-2 py-1 text-white"
               href={userData.about.currentProjectUrl}
             >
               {userData.about.currentProject} ✈️
