@@ -19,28 +19,28 @@ const userData = {
     },
     {
       title: "Portfolio",
-      link: "https://manuarora.in",
-      imgUrl: "/portfolio.png",
+      link: "/",
+      imgUrl: "/Portfolio Screenshot.png",
     },
     {
       title: "React Movie List with API",
-      link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
+      link: "https://react-comedy-movie-list.herokuapp.com/",
+      imgUrl: "/Movie List Screenshot.png",
     },
     {
       title: "Movie/TV Show Review App with API",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
+      link: "https://movie-review-site.netlify.app/",
+      imgUrl: "/movie-review-image1.png",
     },
     {
       title: "React Code Snippets Library",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
+      link: "https://react-snippet.herokuapp.com/",
+      imgUrl: "/react-snippet-image1.png",
     },
     {
       title: "First Portfolio",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
+      link: "",
+      imgUrl: "/Portfolio-Image-3.png",
     },
   ],
   about: {
