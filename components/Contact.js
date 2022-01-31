@@ -149,8 +149,11 @@ export default function Contact() {
               name="email"
               required
             />
-            <input type="hidden" name="_next" value="https://portfolio-website-beta-one.vercel.app/thankyou.html">
-
+            <input
+              type="hidden"
+              name="_next"
+              value="https://portfolio-website-beta-one.vercel.app/thankyou.html"
+            />
 
             <label
               htmlFor="message"
