@@ -125,7 +125,11 @@ export default function Contact() {
               </a>
             </div>
           </div>
-          <form className="form rounded-lg bg-white p-4 flex flex-col">
+          <form
+            action="https://formsubmit.co/isaackhan21@gmail.com"
+            method="POST"
+            className="form rounded-lg bg-white p-4 flex flex-col"
+          >
             <label htmlFor="name" className="text-sm text-gray-600 mx-4">
               {" "}
               Your Name
@@ -134,6 +138,7 @@ export default function Contact() {
               type="text"
               className="font-light rounded-md border focus:outline-none py-2 mt-2 px-1 mx-4 focus:ring-2 focus:border-none ring-blue-500"
               name="name"
+              required
             />
             <label htmlFor="email" className="text-sm text-gray-600 mx-4 mt-4">
               Email
@@ -142,7 +147,11 @@ export default function Contact() {
               type="text"
               className="font-light rounded-md border focus:outline-none py-2 mt-2 px-1 mx-4 focus:ring-2 focus:border-none ring-blue-500"
               name="email"
+              required
             />
+            <input type="hidden" name="_next" value="https://portfolio-website-beta-one.vercel.app/thankyou.html">
+
+
             <label
               htmlFor="message"
               className="text-sm text-gray-600 mx-4 mt-4"
@@ -154,6 +163,7 @@ export default function Contact() {
               type="text"
               className="font-light rounded-md border focus:outline-none py-2 mt-2 px-1 mx-4 focus:ring-2 focus:border-none ring-blue-500"
               name="message"
+              required
             ></textarea>
             <button
               type="submit"
