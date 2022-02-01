@@ -10,22 +10,22 @@ const userData = {
     {
       title: "Crypto Price Tracker",
       link: "https://reactjs-crypto-tracker.netlify.app/",
-      imgUrl: "/Crypto Tracker Screenshot.png",
+      imgUrl: "/Crypto Tracker Screenshot 2.png",
     },
     {
       title: "Blog Website",
       link: "https://blog-project-8eg5mueri-isaackhan21.vercel.app/",
-      imgUrl: "/Blog Project Screenshot.png",
+      imgUrl: "/Blog Project Screenshot 2.png",
     },
     {
       title: "Portfolio",
       link: "/",
-      imgUrl: "/Portfolio Screenshot.png",
+      imgUrl: "/Portfolio Screenshot 2.png",
     },
     {
       title: "React Movie List with API",
       link: "https://react-comedy-movie-list.herokuapp.com/",
-      imgUrl: "/Movie List Screenshot.png",
+      imgUrl: "/Movie List Screenshot 2.png",
     },
     {
       title: "Movie/TV Show Review App with API",
