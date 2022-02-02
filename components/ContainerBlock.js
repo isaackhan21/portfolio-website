@@ -24,10 +24,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
           property="og:url"
           content={`https://isaackhan.dev${router.asPath}`}
         />
-        <link
-          rel="canonical"
-          href={`https://yourwebsite.com${router.asPath}`}
-        />
+        <link rel="canonical" href={`https://isaackhan.dev${router.asPath}`} />
         <meta property="og:type" content={meta.type} />
         <meta property="og:site_name" content="Isaac Khan" />
         <meta property="og:description" content={meta.description} />
