@@ -10,7 +10,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
   const meta = {
     title: "Isaac Khan - Developer, Designer, Programmer and Blogger",
     description: `I am self-taught web developer that loves building products and web applications. Get in touch with me to know more.`,
-    image: "/Portfolio Screenshot 2.png",
+    image: "https://ibb.co/Z6f97Gz",
     type: "website",
     ...customMeta,
   };
