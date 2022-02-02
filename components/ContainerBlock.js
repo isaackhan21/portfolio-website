@@ -22,7 +22,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
         <meta content={meta.description} name="description" />
         <meta
           property="og:url"
-          content={`https://yourwebsite.com${router.asPath}`}
+          content={`https://isaackhan.dev${router.asPath}`}
         />
         <link
           rel="canonical"
