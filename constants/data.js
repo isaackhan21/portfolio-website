@@ -84,7 +84,8 @@ const userData = {
       desc: "Revieved GCSEs and A-levels in Maths, Physics, Chemistry",
     },
   ],
-  resumeUrl: "https://www.canva.com/design/DAE3T1Ry5b0/RRMPbR7r1cNNdE1nc_OhcQ/view?utm_content=DAE3T1Ry5b0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
+  resumeUrl:
+    "https://www.canva.com/design/DAE3T1Ry5b0/RRMPbR7r1cNNdE1nc_OhcQ/view?utm_content=DAE3T1Ry5b0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
   socialLinks: {
     twitter: "https://twitter.com/Isaac77649241",
     linkedin: "https://www.linkedin.com/in/isaac-khan-2988a1159/",
