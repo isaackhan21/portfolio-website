@@ -8,6 +8,11 @@ const userData = {
   address: "38 Archer Grove, Reading, RG2 9TB",
   projects: [
     {
+      title: "Blog App Website",
+      link: "https://blog-7pl3hoejy-isaackhan21.vercel.app/",
+      imgUrl: "/Blog App Screenshot 2.png",
+    },
+    {
       title: "Crypto Price Tracker",
       link: "https://reactjs-crypto-tracker.netlify.app/",
       imgUrl: "/Crypto Tracker Screenshot 2.png",
