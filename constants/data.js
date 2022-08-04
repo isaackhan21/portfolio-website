@@ -8,6 +8,11 @@ const userData = {
   address: "38 Archer Grove, Reading, RG2 9TB",
   projects: [
     {
+      title: "Filmpire - AI Powered Movie App",
+      link: "https://filmpire-isaac.netlify.app/",
+      imgUrl: "/Filmpire Screenshot.png",
+    },
+    {
       title: "Blog App Website",
       link: "https://blog-7pl3hoejy-isaackhan21.vercel.app/",
       imgUrl: "/Blog App Screenshot 2.png",
